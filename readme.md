@@ -1,5 +1,3 @@
-Readme
-=====================
 Greetings, my friends!
 -----------------------------------
 Дополнил робота [«Малыш»](https://iarduino.ru/shop/Nabor/robot-laquo-malysh-raquo.html) модулем [Bluetooth](https://iarduino.ru/shop/Expansion-payments/bluetooth-hc-05-trema-modul.html). Управление направлением и скоростью движения робота будет осуществляться с помощью приложения, установленного на телефон.
